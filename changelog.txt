@@ -1,0 +1,12 @@
+npm init -y
+npm install express
+
+
+se pesquisar no insominia pelo get http://localhost:3000/cadastro/0001 ele me retorna o json do valor 
+
+
+se pesquisar http://localhost:3000/todos ele vai varrer geral
+
+
+
+
